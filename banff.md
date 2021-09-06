@@ -1,1 +1,1 @@
-[[../images/20210808_085204.jpg|mountain]]
+![mountain](https://github.com/githubca/poems/blob/main/images/20210808_085204.jpg?raw=true)
